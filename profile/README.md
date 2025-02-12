@@ -1,3 +1,4 @@
+<img src="/assets/acrylic_circle.png" align="right" width="150">
 
 ## The AcrylicOS organization
 
