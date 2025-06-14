@@ -1,4 +1,4 @@
-<img src="/assets/acrylic_circle.png" align="right" width="150">
+<img src="/assets/logo.svg" align="right" width="150">
 
 ## Acrylic
 
@@ -8,6 +8,7 @@ The source code for Acrylic, its extensions (apps, plugins, and themes), and the
 
 ### Links
 
-* [Acrylic wiki](https://wiki.anpang.fun/acr)
-* [Try Acrylic](https://anpang.fun/acrylic)
+* [Acrylic homepage](https://acrylic.anpang.lol/)
+* [Acrylic wiki](https://wiki.anpang.lol/acr)
+* [Try Acrylic](https://anpang.lol/acrylic)
 
